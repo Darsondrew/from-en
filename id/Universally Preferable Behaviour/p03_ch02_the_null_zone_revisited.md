@@ -10,7 +10,7 @@ Misalnya, tidak ada orang yang pernah secara langsung mengalami lingkaran sempur
 
 Namun, selama ribuan tahun, ilmu astronomi dilumpuhkan oleh pencarian akan lingkaran sempurna ini. Orbit planet harus menjadi lingkaran sempurna, karena Tuhan tidak akan pernah membiarkan sesuatu sebagai "tidak sempurna" sebagai elips dalam ciptaan-Nya.
 
-Masalah dengan pendekatan ini - yah, satu masalah juga - adalah gerak mundur Mars. Dari planet kita, Mars kadang-kadang tampak bergerak "mundur", saat Bumi "menyusul" mengelilingi matahari. Keyakinan palsu bahwa Bumi adalah pusat tata surya, dikombinasikan dengan mania untuk lingkaran "sempurna", menghasilkan sistem astronomi Ptolema, yang melipatgandakan lingkaran sempurna ini sampai pada titik absurd, untuk memperhitungkan orbit elips dan gerakan retrograde Mars.
+Masalah dengan pendekatan ini - yah, satu masalah juga - adalah gerak mundur Mars. Dari planet kita, Mars kadang-kadang tampak bergerak "mundur", saat Bumi "menyusul" mengelilingi matahari. ini merupakan Keyakinan palsu bahwa Bumi adalah pusat tata surya, dikombinasikan dengan mania untuk lingkaran "sempurna", menghasilkan sistem astronomi Ptolema, yang melipatgandakan lingkaran sempurna ini sampai pada titik absurd, untuk memperhitungkan orbit elips dan gerakan retrograde Mars.
 
 Mengapa ilusi kesempurnaan ini dianggap sebagai persyaratan bagi benda langit? Pastinya bukti bulan, dengan permukaannya yang terjal dan kawah, nampaknya mendukung ketidaksempurnaan langit, namun fiksasi agama melewati bukti sensual langsung dari ketidaksempurnaan langsung dan antarplanet. Penemuan Galileo tentang gunung bulan, bintik matahari dan bulan Jupiter semuanya diserang sebagai bidah.
 
@@ -30,7 +30,7 @@ Kita bisa bilang:
 
 Pernyataan ketiga adalah kontradiksi diri yang lengkap. "Kebenaran" tidak tergantung pada keinginan, karena keinginan didefinisikan secara subjektif, dan kebenaran adalah dengan definisi kesesuaian gagasan dengan standar objektif logika dan realitas empiris. Mengatakan bahwa ada sesuatu yang benar karena Anda *ingin* memang benar adalah menyamakan subjektivitas dengan objektivitas, yang merupakan pernyataan kontradiktif itu sendiri.
 
-Pernyataan yang terlalu besar - atau "iman" - menurut definisi tidak dapat diuji, karena mereka tidak percaya pada *ketidakhadiran* bukti, tapi percaya pada *tantangan* alasan dan/atau bukti.
+Pernyataan yang terlalu besar - atau "iman" - menurut definisi tidak dapat diuji, karena mereka tidak percaya pada *ketidakhadiran* bukti, tapi percaya pada *tantangan* dan alasan/bukti.
 
 Kita dapat mempercayai hal-hal yang tidak terbukti yang ternyata benar - seseorang pasti berpikir bahwa dunia ini bulat sebelum terbukti - namun "zona nol" adalah wilayah dimana kita berpegang teguh pada keyakinan akan hal-hal yang *tidak mungkin dapat kita ubah. tidak mungkin ternyata itu benar*.
 
@@ -38,7 +38,7 @@ Jika saya mengatakan bahwa dua ditambah dua sama dengan lima, saya membuat kesal
 
 ### Pemberhentian selanjutnya: "Dunia Alternatif"
 
-Secara umum, cara orang mencoba untuk "menyelamatkan" keyakinan anti-empiris dan anti-logika mereka adalah menciptakan "dunia alternatif" atau "alam semesta alternatif" di mana pernyataan kontradiktif mereka sendiri dapat menjadi kenyataan.
+Secara umum, cara orang mencoba yang untuk "menyelamatkan" keyakinan anti-empiris dan anti-logika mereka adalah menciptakan "dunia alternatif" atau "alam semesta alternatif" di mana pernyataan kontradiktif mereka sendiri dapat menjadi kenyataan.
 
 Jika saya katakan: "Lingkaran persegi ada," saya menegaskan apa yang jelas tidak mungkin dilakukan di alam semesta ini. Jadi, jika saya ingin mempertahankan keyakinan saya, saya harus menciptakan alam semesta lainnya, atau alam "di luar" alam semesta ini dimana lingkaran persegi bisa ada.
 
